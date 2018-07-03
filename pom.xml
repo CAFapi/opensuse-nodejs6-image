@@ -23,7 +23,7 @@
 
     <groupId>com.github.cafapi</groupId>
     <artifactId>opensuse-nodejs6-image</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0-54</version>
     <packaging>pom</packaging>
 
     <name>openSUSE NodeJS6 image</name>
